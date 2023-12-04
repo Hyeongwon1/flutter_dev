@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/web_view/android/android.iml" filepath="$PROJECT_DIR$/web_view/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_view/build/app/app.iml" filepath="$PROJECT_DIR$/web_view/build/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_view/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/web_view/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_dev.iml" filepath="$PROJECT_DIR$/flutter_dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello_world/hello_world.iml" filepath="$PROJECT_DIR$/hello_world/hello_world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_view/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/web_view/android/app/src/profile/profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/row_and_column/row_and_column.iml" filepath="$PROJECT_DIR$/row_and_column/row_and_column.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_view/web_view.iml" filepath="$PROJECT_DIR$/web_view/web_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_view/build/webview_flutter_android/webview_flutter_android.iml" filepath="$PROJECT_DIR$/web_view/build/webview_flutter_android/webview_flutter_android.iml" />
+    </modules>
+  </component>
+</project>
