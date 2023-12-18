@@ -2,7 +2,20 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/statefulwidget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/statefulwidget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/statefulwidget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-lv1-theory-statefulwidget-before/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-lv1-theory-statefulwidget-before/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-lv1-theory-statefulwidget-before/build" />
+      <excludeFolder url="file://$MODULE_DIR$/statefulwidget/ios/.symlinks/plugins/webview_flutter_wkwebview/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/statefulwidget/ios/.symlinks/plugins/webview_flutter_wkwebview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/statefulwidget/ios/.symlinks/plugins/webview_flutter_wkwebview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/statefulwidget/ios/.symlinks/plugins/webview_flutter_wkwebview/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/statefulwidget/ios/.symlinks/plugins/webview_flutter_wkwebview/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/statefulwidget/ios/.symlinks/plugins/webview_flutter_wkwebview/example/build" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
     <orderEntry type="library" name="Flutter Plugins" level="project" />
