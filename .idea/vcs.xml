@@ -2,8 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/flutter-lv1-project-image-carousel" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/flutter-lv1-project-u-and-i" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/flutter-lv1-theory-statefulwidget-before" vcs="Git" />
   </component>
 </project>

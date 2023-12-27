@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/web_view/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/web_view/android/app/src/profile/profile.iml" />
       <module fileurl="file://$PROJECT_DIR$/row_and_column/row_and_column.iml" filepath="$PROJECT_DIR$/row_and_column/row_and_column.iml" />
       <module fileurl="file://$PROJECT_DIR$/row_and_column/android/row_and_column_android.iml" filepath="$PROJECT_DIR$/row_and_column/android/row_and_column_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uandi/uandi.iml" filepath="$PROJECT_DIR$/uandi/uandi.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_view/web_view.iml" filepath="$PROJECT_DIR$/web_view/web_view.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_view/android/web_view_android.iml" filepath="$PROJECT_DIR$/web_view/android/web_view_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_view/build/webview_flutter_android/webview_flutter_android.iml" filepath="$PROJECT_DIR$/web_view/build/webview_flutter_android/webview_flutter_android.iml" />
