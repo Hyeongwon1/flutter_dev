@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:statefulwidget/screen/home_screen.dart';
 
 void main() {
-  runApp(MaterialApp(
+  runApp(const MaterialApp(
     home: Root(),
   ));
 }
@@ -44,7 +44,7 @@ class _RootState extends State<Root> {
                         color = color == Colors.red ? Colors.blue : Colors.red;
                       });
                     },
-                    child: Text(
+                    child: const Text(
                       '색깔 변경하기',
                     ),
                   ),

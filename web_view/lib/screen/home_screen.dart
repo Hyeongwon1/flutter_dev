@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.orange,
-        title: Text('돌군'),
+        title: const Text('돌군'),
         centerTitle: true,
         actions: [
           IconButton(
