@@ -21,6 +21,18 @@
       <excludeFolder url="file://$MODULE_DIR$/u_and_i/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/u_and_i/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/u_and_i/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-lv1-project-random-number-generator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-lv1-project-random-number-generator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-lv1-project-random-number-generator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-lv1-theory-const-constructor/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-lv1-theory-const-constructor/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-lv1-theory-const-constructor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_carousel/ios/.symlinks/plugins/webview_flutter_wkwebview/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_carousel/ios/.symlinks/plugins/webview_flutter_wkwebview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_carousel/ios/.symlinks/plugins/webview_flutter_wkwebview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_carousel/ios/.symlinks/plugins/webview_flutter_wkwebview/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_carousel/ios/.symlinks/plugins/webview_flutter_wkwebview/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_carousel/ios/.symlinks/plugins/webview_flutter_wkwebview/example/build" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
