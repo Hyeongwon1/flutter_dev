@@ -20,6 +20,14 @@ class HomeScreen extends StatelessWidget {
           const CircularProgressIndicator(
             color: Colors.white,
           )
+          ,
+          TextButton(onPressed: (){},
+              style: ButtonStyle(
+                backgroundColor:
+                MaterialStateProperty.all(Colors.cyan)
+              ),
+              child: Text('button'))
+
         ],
       ),
     );
