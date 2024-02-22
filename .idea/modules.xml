@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/web_view/android/android.iml" filepath="$PROJECT_DIR$/web_view/android/android.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_view/build/app/app.iml" filepath="$PROJECT_DIR$/web_view/build/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/check_check/check_check.iml" filepath="$PROJECT_DIR$/check_check/check_check.iml" />
       <module fileurl="file://$PROJECT_DIR$/const_constructor/const_constructor.iml" filepath="$PROJECT_DIR$/const_constructor/const_constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_view/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/web_view/android/app/src/debug/debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_dev.iml" filepath="$PROJECT_DIR$/flutter_dev.iml" />
