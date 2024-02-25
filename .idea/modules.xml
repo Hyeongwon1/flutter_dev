@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/const_constructor/const_constructor.iml" filepath="$PROJECT_DIR$/const_constructor/const_constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_view/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/web_view/android/app/src/debug/debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_dev.iml" filepath="$PROJECT_DIR$/flutter_dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/future_stream_bulider/future_stream_bulider.iml" filepath="$PROJECT_DIR$/future_stream_bulider/future_stream_bulider.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello_world/hello_world.iml" filepath="$PROJECT_DIR$/hello_world/hello_world.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello_world/android/hello_world_android.iml" filepath="$PROJECT_DIR$/hello_world/android/hello_world_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/navigation/navigation.iml" filepath="$PROJECT_DIR$/navigation/navigation.iml" />
